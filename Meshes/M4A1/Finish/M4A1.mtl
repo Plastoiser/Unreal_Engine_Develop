@@ -2,34 +2,34 @@
 # Material Count: 3
 
 newmtl Tex_0011_1.dds
-Ns 19.607843
+Ns 17.647059
 Ka 0.000000 0.000000 0.000000
 Kd 0.470400 0.470400 0.470400
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 1
-map_Kd C:\\Users\\placi\\Desktop\\Unreal_Engine_Develop\\M4A1\\Tex_0011_1.dds
+illum 2
+map_Kd C:\Users\placi\Desktop\Unreal_Engine_Develop\M4A1\Tex_0011_1.dds
 
 newmtl Tex_0011_1.dds.001
-Ns 19.607843
+Ns 17.647059
 Ka 0.000000 0.000000 0.000000
 Kd 0.470400 0.470400 0.470400
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 1
-map_Kd C:\\Users\\placi\\Desktop\\Unreal_Engine_Develop\\M4A1\\Tex_0011_1.dds
+illum 2
+map_Kd C:\Users\placi\Desktop\Unreal_Engine_Develop\M4A1\Tex_0011_1.dds
 
 newmtl Tex_0011_1.dds.002
-Ns 19.607843
+Ns 17.647059
 Ka 0.000000 0.000000 0.000000
 Kd 0.470400 0.470400 0.470400
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 1
-map_Kd C:\\Users\\placi\\Desktop\\Unreal_Engine_Develop\\M4A1\\Tex_0011_1.dds
+illum 2
+map_Kd C:\Users\placi\Desktop\Unreal_Engine_Develop\M4A1\Tex_0011_1.dds
