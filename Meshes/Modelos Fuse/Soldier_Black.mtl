@@ -1,0 +1,107 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl Beardmat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Beard_Normal.png
+map_Kd C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Beard_Diffuse.png
+map_Ks C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Beard_Specular.png
+map_Ns C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Beard_Gloss.png
+map_d C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Beard_Opacity.png
+
+newmtl Bodymat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Body_Normal.png
+map_Kd C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Body_Diffuse.png
+map_Ks C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Body_Specular.png
+map_Ns C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Body_Gloss.png
+map_d C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Body_Opacity.png
+
+newmtl Bottommat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Bottom_Normal.png
+map_Kd C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Bottom_Diffuse.png
+map_Ks C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Bottom_Specular.png
+map_Ns C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Bottom_Gloss.png
+map_d C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Bottom_Opacity.png
+
+newmtl Glovemat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Glove_Normal.png
+map_Kd C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Glove_Diffuse.png
+map_Ks C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Glove_Specular.png
+map_Ns C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Glove_Gloss.png
+map_d C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Glove_Opacity.png
+
+newmtl Moustachemat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Moustache_Normal.png
+map_Kd C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Moustache_Diffuse.png
+map_Ks C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Moustache_Specular.png
+map_Ns C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Moustache_Gloss.png
+map_d C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Moustache_Opacity.png
+
+newmtl Shoesmat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Shoes_Normal.png
+map_Kd C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Shoes_Diffuse.png
+map_Ks C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Shoes_Specular.png
+map_Ns C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Shoes_Gloss.png
+map_d C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Shoes_Opacity.png
+
+newmtl Topmat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Top_Normal.png
+map_Kd C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Top_Diffuse.png
+map_Ks C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Top_Specular.png
+map_Ns C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Top_Gloss.png
+map_d C:\\Users\\placi\\home\\app\\mixamo-mini\\tmp\\skins_35fc4d25-2fbe-47ed-aba9-f3f3ab15b34b.fbm\\Black_Soldier_Top_Opacity.png
